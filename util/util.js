@@ -13,6 +13,7 @@ export const randomArr = len=>{
         arr.push(num);
     }
 
+    console.log(arr);
     return arr;
     // return [716, 549, 676, 276, 230, 310, 937, 838, 676, 677, 501, 390, 689, 978, 238, 914, 331, 610, 310, 586, 744];
 }
